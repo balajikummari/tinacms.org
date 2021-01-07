@@ -1,6 +1,6 @@
 {
   "title": "Home",
-  "headline": "Build real-time editing into your site.",
+  "headline": "Build real-time editing into your site.bsfjhbsdjfb",
   "description": "Tina is an open-source site editing toolkit for React-based sites like Next.js & Gatsby",
   "hero_video": "v1571425758/tina-hero-demo-v2",
   "hero_alt": "TinaCMS_video",
@@ -13,16 +13,22 @@
     {
       "_template": "selling_point",
       "main": "Edit from your site",
-      "supporting": "Manage content on your own site, not another platform. Import Tina directly into your components to expose an editing interface for controlling and updating layers of your content mesh. You define the content model and editing powers specific to your site."
+      "supporting": "Manage content on your own site, not another platform. Import Tina directly into your components to expose an editing interface for controlling and updating mhvnvnbnbjhblayers of your content mesh. You define the content model and editing powers specific to your site."
     },
     {
       "_template": "selling_point",
-      "main": "Extend & contribute",
-      "supporting": "This is not one-size-fits-all CMS. Tina is a grassroots open source JavaScript toolkit with a plugin-rich ecosystem. You can customize and extend the toolkit to suit your needs. Get and give help with a robust community of contributors."
+      "main": "Tina is dope 🤙",
+      "supporting": "It’s pretty much my favorite animal. It’s like a lion and a tiger mixed… bred for its skills in magic.fef ",
+      "color": "Orange (Primary)"
+    },
+    {
+      "_template": "selling_point",
+      "main": "Tina is dope 🤙",
+      "supporting": "It’s pretty much my favorite animal. It’s like a lion and a tiger mixed… bred for its skills in magic."
     }
   ],
   "setup": {
-    "headline": "Make your site editable in five minutes.",
+    "headline": "Make your site editable igvn five minutes.",
     "steps": [
       {
         "_template": "setup_point",
@@ -38,7 +44,7 @@
       },
       {
         "_template": "setup_point",
-        "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time"
+        "step": "Make yourself a dang quesadilla"
       }
     ],
     "code_ex": "/img/terminal.png"
